@@ -1,0 +1,13 @@
+1:HL["/_next/static/css/31df22989e7e00c8.css","style",{"crossOrigin":""}]
+2:HL["/_next/static/css/7b0d13f9dde11c43.css","style",{"crossOrigin":""}]
+3:HL["/_next/static/css/d228c62af09361b9.css","style",{"crossOrigin":""}]
+0:["Zq6d8xy2KvyF57r2Uh8VB",[[["",{"children":["ovk",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L4",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/31df22989e7e00c8.css","precedence":"next","crossOrigin":""}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/7b0d13f9dde11c43.css","precedence":"next","crossOrigin":""}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/d228c62af09361b9.css","precedence":"next","crossOrigin":""}]],"$L5"]]]]
+6:I[961,["949","static/chunks/949-34911310aa97fe62.js","185","static/chunks/app/layout-a13554317b680e7e.js"],"DEFAULT_BODY_CLASSNAME"]
+7:I[961,["949","static/chunks/949-34911310aa97fe62.js","185","static/chunks/app/layout-a13554317b680e7e.js"],"Wrapper"]
+8:I[6954,[],""]
+9:I[7264,[],""]
+a:I[2630,["160","static/chunks/app/not-found-2db1933d8391595d.js"],""]
+4:[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"$6","children":["$","$L7",null,{"children":["$","$L8",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","notFound":["$","$La",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b6fae4324ac8c9cf.css","precedence":"next","crossOrigin":""}]],"childProp":{"current":["$","$L8",null,{"parallelRouterKey":"children","segmentPath":["children","ovk","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$Lb","$Lc",null],"segment":"__PAGE__"},"styles":[]}],"segment":"ovk"},"styles":[]}]}]}]}],null]
+5:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Ry0's personal site"}],["$","meta","2",{"name":"description","content":"Ry0's personal site"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]]
+c:E{"digest":"NEXT_REDIRECT;replace;https://ovk.to/reg?ref=2831%20Z2C1Tf6aoRNirB6QMJ0nDdyDCVYRWK4scmnlhNuug3Q%3D;false"}
+b:null
